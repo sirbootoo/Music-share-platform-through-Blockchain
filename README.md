@@ -14,3 +14,6 @@ It gives chances for upload of music files and access to files needed by the use
 - Then run ```truffle migrate```
 - Then run ```truffle test```
 - Then run ```npm run start```
+
+
+gotten from - https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain/
